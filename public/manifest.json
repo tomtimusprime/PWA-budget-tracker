@@ -1,0 +1,16 @@
+{
+    "name": "PWA Budget Tracker",
+    "short_name": "Budget Tracker",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "A budgeting app that works both online and offline.",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "./public/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
